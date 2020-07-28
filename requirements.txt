@@ -1,0 +1,15 @@
+aiohttp
+altair
+Cython
+descartes
+ema-workbench>=2.0
+geopandas>=0.7.0
+ipyparallel
+kneed
+numba
+pandapower
+Platypus-Opt
+PuLP
+pydot
+SALib
+xlrd
