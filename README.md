@@ -6,7 +6,6 @@ the context of exploratory modelling and analysis.
 not all scripts / notebooks are included yet.
 
 #### Installation
-````
 Install JupyterLab
 ````
 $ conda install -c conda-forge jupyterlab nodejs geopandas descartes
