@@ -8,7 +8,6 @@ import warnings
 
 import aiohttp
 import asyncio
-import nest_asyncio
 
 import pandas as pd
 
